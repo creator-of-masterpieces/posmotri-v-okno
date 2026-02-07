@@ -1,4 +1,4 @@
-# posmotri-v-okno-fd
+# posmotri-v-okno
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -11,7 +11,7 @@
 
 ## 🚀 Демо
 
-[Посмотреть проект на Vercel](https://posmotri-v-okno-fd.vercel.app)
+[Посмотреть проект на Vercel](https://posmotri-v-okno.vercel.app)
 
 ## 🛠️ Используемые технологии
 
@@ -32,7 +32,7 @@
 ## 📦 Запуск проекта локально
 
 ```bash
-git clone https://github.com/creator-of-masterpieces/posmotri-v-okno-fd.git
-cd posmotri-v-okno-fd
+git clone https://github.com/creator-of-masterpieces/posmotri-v-okno.git
+cd posmotri-v-okno
 npm install
 npm run start
